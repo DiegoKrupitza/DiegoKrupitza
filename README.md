@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=diegokrupitza&show_icons=true&count_private=true&include_all_commits=true)" align="right" />
+<img src="https://readme-stats.clckblog.space/api?username=diegokrupitza&show_icons=true&count_private=true&include_all_commits=true" align="right" />
 
 My name is Diego and I am a CS Master student at TU Vienna. I'm mostly active in the Java ecosystem, but I'm open to (and eager to learn) any other language. I like to work on cool projects and learn from other people. I've been writing code since I was 13 🤓.
 
